@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋, My name is Kolitha.
+#### Design & Development
+Software engineering student | Inquisitive mind and a love for technology, exploring the possibilities of software engineering
 
-I'm a Software engineering student. And I'm a self-learner.
+Skills: HTML / CSS/ REACT / JS /Java
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KolithaBandara)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on this page. 
