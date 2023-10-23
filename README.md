@@ -7,7 +7,7 @@
 ###
 
 
-<h3 align="center">-I'm a Software engineering student-</h3><br>
+<h3 align="center">- I'm a Software engineering student -</h3><br>
 
 - 🌱 I’m currently learning **HTML,CSS, JavaScript, TypeScript, React, Angular, Bootstrap, Java**
 
