@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#query=programmer&position=4&from_view=search&track=sph" />
+<img align="right" height="150" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=826&t=st=1698090998~exp=1698091598~hmac=6f341ed900053ce930e2dd3fb58b2f186f5bd9f633064c6322660c599ed620ab" />
 
 ###
 
