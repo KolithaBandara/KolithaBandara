@@ -43,7 +43,7 @@
 
 
 
-<p align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=KolithaBandara&theme=jolly&hide_border=false)</p><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KolithaBandara&theme=jolly&hide_border=false)<br/>
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KolithaBandara&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
