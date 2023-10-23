@@ -1,7 +1,7 @@
 # 📊 GitHub Stats:
 
 
-![]<center>(https://github-readme-stats.vercel.app/api?username=KolithaBandara&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/></center>
+<!--[](https://github-readme-stats.vercel.app/api?username=KolithaBandara&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KolithaBandara&theme=jolly&hide_border=false)<br/>
 <br>
