@@ -58,8 +58,10 @@
 ###
 
 
+<div align="center">
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=KolithaBandara&theme=jolly&hide_border=false)<br/>
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=KolithaBandara&theme=jolly&hide_border=false)<br/>
 
 
 
