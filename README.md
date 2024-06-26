@@ -6,10 +6,9 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KolithaBandara.KolithaBandara&right_color=blueviolet"  />
 </div>
-[![](https://visitcount.itsvg.in/api?id=KolithaBandara&icon=5&color=6)](https://visitcount.itsvg.in)
-###
 
-###
+[![](https://visitcount.itsvg.in/api?id=KolithaBandara&icon=5&color=6)](https://visitcount.itsvg.in)
+
 
 ###
 
