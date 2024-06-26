@@ -1,3 +1,8 @@
+<!--View count-->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KolithaBandara.KolithaBandara&left_text=Who"  />
+
+###
+
 <h1 align="center">👋 Hello There! Are you looking for me?</h1>
 
 ###
