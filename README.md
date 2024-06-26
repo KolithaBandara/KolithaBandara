@@ -1,5 +1,13 @@
 <!--View count-->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KolithaBandara.KolithaBandara&left_text=Who"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KolithaBandara.KolithaBandara&right_color=blueviolet&left_text=Profile%20views%20:%20%20"  />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/KolithaBandara/count.svg?"  />
+</div>
+
+###
 
 ###
 
