@@ -1,9 +1,11 @@
 <!--View count-->
 <br clear="both">
 
-<div align="center">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KolithaBandara.KolithaBandara&right_color=blueviolet"  />
 </div>
+
+###
 
 ###
 
