@@ -10,51 +10,7 @@
 <h3 align="center">- I'm a Software engineering student -</h3><br>
 
 - 🌱 I’m currently learning **Java**
-
-
-
-
-###
-
-<!--<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>-->
-
-
-<!--<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div> -->
-
-
-<!--<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>-->
-
+- 
 ###
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=KolithaBandara&theme=jolly&hide_border=false)<br/>
@@ -74,6 +30,27 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KolithaBandara&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+<!----------------------------------->
+
+<!--- M Y   T O P   R E P O --->
+
+<h2 align="center">💾 REPOSITORIES 💾</h2>
+<br>
+<div width="100%" align="center">
+  <!--- Repo #1 --->
+  <a align="right" href="https://github.com/Rachit-Pal/NekoRobot" title="Powerful telegram group management bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoRobot&theme=react&border_color=61dafb&border_radius=10"></a>
+  <!--- Repo #2 --->
+  <a align="left" href="https://github.com/Rachit-Pal/NekoMusic" title="Telegram VC Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoMusic&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <!--- Repo #3 --->
+  <a align="left" href="https://github.com/Rachit-Pal/YorForger" title="Telegram group management bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=YorForger&theme=react&border_color=61dafb&border_radius=10"></a>
+  <!--- Repo #4 --->
+  <a align="right" href="https://github.com/Rachit-Pal/AlbedoBot" title="Anime themed group management bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=AlbedoBot&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br><br><br><br><br><br>
 
 
 
