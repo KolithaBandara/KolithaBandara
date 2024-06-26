@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=KolithaBandara&icon=5&color=6)](https://visitcount.itsvg.in)
+
 <!--View count-->
 <br clear="both">
 
@@ -64,6 +66,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<div align="left">
-  [![](https://visitcount.itsvg.in/api?id=KolithaBandara&icon=5&color=6)](https://visitcount.itsvg.in)
-</div>
+  
