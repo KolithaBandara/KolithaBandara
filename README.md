@@ -1,11 +1,11 @@
 <!--View count-->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KolithaBandara.KolithaBandara&right_color=blueviolet&left_text=Profile%20views%20:%20%20"  />
-
-###
+<br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/KolithaBandara/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KolithaBandara.KolithaBandara&right_color=blueviolet"  />
 </div>
+
+###
 
 ###
 
@@ -23,7 +23,6 @@
 <h3 align="center">- I'm a Software engineering student -</h3><br>
 
 - 🌱 I’m currently learning **Java**
-- 
 ###
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=KolithaBandara&theme=jolly&hide_border=false)<br/>
