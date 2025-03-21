@@ -22,6 +22,20 @@ Seeking new technologies, and I'm pretty sure that 75% are trying to learn them 
 
 <br/>
 
+# 📊 GitHub Stats:
+
+![](https://nirzak-streak-stats.vercel.app/?user=KolithaBandara&theme=github_dark&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KolithaBandara&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=KolithaBandara&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
+
+</div>
+
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
@@ -73,20 +87,6 @@ Seeking new technologies, and I'm pretty sure that 75% are trying to learn them 
 </td></tr></table>
 
 <br/>
-
-# 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=KolithaBandara&theme=github_dark&hide_border=false)
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KolithaBandara&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=KolithaBandara&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
-
-</div>
 
 ### ✍️ Random Dev Quote
 
