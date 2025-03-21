@@ -4,9 +4,11 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFB3Nxej81MTg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707732469637?e=1747872000&v=beta&t=SF7NSnFXgxnoeB7sfC3_VLMOpF7wu301eSfCbFA069c" align="center" style="width: 100%" />
 </div>
 
-### 💫 About Me:
+<br/>
 
 # Hello there! I'm Kolitha. 👋🏻
+
+### 💫 About Me:
 
 ## <div align="center">My fate didn't choose the traditional university path.✨❤️
 
