@@ -6,7 +6,7 @@
 
 <br/>
 
-# Hello there! I'm Kolitha. 👋🏻
+# <div align="cetner"> Hello there! I'm Kolitha. 👋🏻</div>
 
 ### 💫 About Me:
 
@@ -102,7 +102,7 @@ Seeking new technologies, and I'm pretty sure that 75% are trying to learn them 
 ## Connect with me
 
 <div align="center">
-<a href="https://linkedin.com/in//gayan-kolitha-bandara/" target="_blank">
+<a href="https://linkedin.com/in/gayan-kolitha-bandara/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
