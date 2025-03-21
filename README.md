@@ -1,18 +1,20 @@
 [![](https://visitcount.itsvg.in/api?id=KolithaBandara&icon=5&color=6)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
-
-### Hello there! I'm Kolitha. 👋🏻
-
 <div align="center">
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFB3Nxej81MTg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707732469637?e=1747872000&v=beta&t=SF7NSnFXgxnoeB7sfC3_VLMOpF7wu301eSfCbFA069c" align="center" style="width: 100%" />
 </div>
 
+### 💫 About Me:
+
+# Hello there! I'm Kolitha. 👋🏻
+
 ## <div align="center">My fate didn't choose the traditional university path.✨❤️
 
-However here I am, acting as a self-learner.😎
-I know it's a hard way to learn and do work like that. But I won't give up.❤️
-Seeking new technologies, and I'm pretty sure that 75% are trying to learn them by self-learning.</div>
+However here I am, acting as a self-learner.😎  
+I know it's a hard way to learn and do work like that. But I won't give up.❤️  
+Seeking new technologies, and I'm pretty sure that 75% are trying to learn them by self-learning.
+
+</div>
 
 - 🌱 These days, I'm learning JS, TS, Angular, NextJS, React, Java, Spring Boot, MySQL, and AWS.
 
@@ -102,6 +104,8 @@ Seeking new technologies, and I'm pretty sure that 75% are trying to learn them 
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
+
+<!-- Snake game play -->
 
 <!-- Credits to :  -->
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
