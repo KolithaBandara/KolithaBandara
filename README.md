@@ -9,7 +9,6 @@
 # <div align="cetner"> Hello there! I'm Kolitha. 👋🏻</div>
 
 #### 💫 About Me:
-
 ## <div align="center">Software Engineering Student💖
 
 ### My fate didn't choose the traditional university path.✨❤️  
