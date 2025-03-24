@@ -8,9 +8,11 @@
 
 # <div align="cetner"> Hello there! I'm Kolitha. 👋🏻</div>
 
-### 💫 About Me:
+#### 💫 About Me:
 
-## <div align="center">My fate didn't choose the traditional university path.✨❤️
+## <div align="center">Software Engineering Student💖
+
+### My fate didn't choose the traditional university path.✨❤️  
 
 However here I am, acting as a self-learner.😎  
 I know it's a hard way to learn and do work like that. But I won't give up.❤️  
