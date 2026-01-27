@@ -61,6 +61,6 @@ Instead of just "building websites," I focus on understanding how software works
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=KolithaBandara&icon=5&color=6" alt="Visitor Count" />
-</div>
+</div> -->
