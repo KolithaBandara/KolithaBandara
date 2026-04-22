@@ -26,7 +26,9 @@ Instead of just "building websites," I focus on understanding how software works
 ### 📊 GitHub Stats
 *Consistency is my key metric.*
 
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=KolithaBandara&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+</p>
 
 <!-- <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=KolithaBandara&theme=github_dark&hide_border=true" alt="Streak Stats" />
